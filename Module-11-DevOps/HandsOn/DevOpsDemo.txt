@@ -1,0 +1,12 @@
+Module 11 - DevOps HandsOn
+
+1. Understanding DevOps Lifecycle
+2. Continuous Integration (CI)
+3. Continuous Delivery (CD)
+4. GitHub Repository Integration
+5. Build Automation
+6. Deployment Pipeline
+
+Result:
+DevOps workflow studied successfully.
+CI/CD pipeline understood successfully.
