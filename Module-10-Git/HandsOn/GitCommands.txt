@@ -1,0 +1,13 @@
+git init
+
+git status
+
+git add .
+
+git commit -m "Initial Commit"
+
+git branch
+
+git remote add origin https://github.com/username/DN-5.0-DeepSkilling.git
+
+git push -u origin main
