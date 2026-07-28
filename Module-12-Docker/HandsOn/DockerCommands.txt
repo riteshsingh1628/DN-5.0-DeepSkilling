@@ -1,0 +1,13 @@
+docker --version
+
+docker pull nginx
+
+docker images
+
+docker run -d --name mycontainer -p 8080:80 nginx
+
+docker ps
+
+docker stop mycontainer
+
+docker rm mycontainer
